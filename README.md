@@ -82,12 +82,27 @@ Học cách lập trình mạng với TCP, quản lý nhiều client song song.
 Thực hành lập trình giao diện GUI và xử lý dữ liệu trong Java.
 
 
-## 5. Kiến trúc hệ thống
-Client – Server:
-  - Server quản lý kết nối, danh sách user, gửi/nhận tin nhắn.
-  - Client gửi yêu cầu đăng nhập, nhận tin nhắn, hiển thị giao diện chat.
-  - Giao thức TCP: đảm bảo tin nhắn đến đúng người, đúng thứ tự.
-  - Đa luồng (Multi-threaded): mỗi client chạy riêng một thread trên server.
+## 5. 📝 Các bước sử dụng ứng dụng chat TCP
+Khởi động chương trình
+  - Bước 1: Chạy Server trước (server sẽ lắng nghe các kết nối).
+  - Bước 2: Chạy Client (có thể mở nhiều client để nhiều người dùng chat với nhau).
+Đăng ký tài khoản (lần đầu)
+  - Nhấn nút Register trên giao diện client.
+  - Nhập thông tin:Username (tên tài khoản, duy nhất),Password (mật khẩu).
+  - (Tùy chọn) Chọn avatar để hiển thị.
+Nhấn Xác nhận / Đăng ký → Nếu thành công sẽ hiện thông báo "Đăng ký thành công".
+Đăng nhập
+  - Nhập Username và Password đã đăng ký.
+  - Nhấn Login → nếu đúng, hệ thống sẽ đưa bạn vào cửa sổ chat chính.
+Giao diện chat chính:
+  - Danh sách người dùng: hiển thị tất cả tài khoản (online / offline).
+  - Khu vực chat: nơi hiển thị tin nhắn gửi và nhận.
+  - Khung nhập: nơi nhập nội dung tin nhắn.
+Các nút chức năng:
+  - Gửi tin nhắn văn bản.
+  - Gửi hình ảnh.
+  - Gửi file.
+  - Gửi emoji / sticker.
 ---
 
 ## 6.Công nghệ bổ trợ
