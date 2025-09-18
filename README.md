@@ -21,11 +21,14 @@
 
 ---
 <div style="text-align: left; padding: 10px;">
-    <h2>Giới thiệu hệ thống</h2>
+    <h2>Đề tài: Ứng dụng chat Client-Server sử dụng TCP</h2>
+    
+ <h3>Giới thiệu hệ thống</h3>
     <p style="font-size: 18px; line-height: 1.6;">
         Đây là hệ thống chat theo thời gian thực, cho phép đăng ký, đăng nhập, gửi tin nhắn văn bản, hình ảnh, file và nhãn dán giữa các user. Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông tin trở nên thuận tiện.
     </p>
-    <p style="font-size: 18px; font-weight: bold;">Các chức năng chính:</p>
+    
+ <p style="font-size: 18px; font-weight: bold;">Các chức năng chính:</p>
     <ul style="font-size: 16px; line-height: 1.6;">
         <li>Đăng ký và đăng nhập tài khoản người dùng</li>
         <li>Gửi/nhận tin nhắn văn bản giữa nhiều người dùng</li>
@@ -34,7 +37,16 @@
         <li>Thông báo khi người dùng đang gõ tin nhắn (typing indicator)</li>
         <li>Chat riêng lẻ hoặc chat nhóm (broadcast)</li>
     </ul>
+
+  <p style="font-size: 16px; font-style: italic;">
+        Ngôn ngữ lập trình: Java <br>
+        Giao thức mạng: TCP (Socket programming) <br>
+        Giao diện người dùng: Swing (Java GUI) <br>
+        Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream <br>
+        Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
+    </p>
 </div>
+
 
 
 ### 2.Ngôn ngữ & Công nghệ chính
