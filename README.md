@@ -42,7 +42,51 @@
   Ngôn ngữ lập trình: Java <br>
    - Giao thức mạng: TCP (Socket programming) <br>
    - Giao diện người dùng: Swing (Java GUI) <br>
-   - Xử lý dữ liệu: ObjectInputStream/Objecom
-- Số điện thoại: 0853972752
+   - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream <br>
+   - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
+    </p>
+</div>
 
+
+
+### 2.Ngôn ngữ & Công nghệ chính
+<div align="left">
+    
+ Ngôn ngữ lập trình: Java
+  - Giao thức mạng: TCP (Socket programming)
+  - Giao diện người dùng: Swing (Java GUI)
+  - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream
+  - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
+</div>
+>>
+---
+
+## 3. Hình ảnh các chức năng
+
+
+
+## 🚀 4.Mục tiêu đề 
+Tạo môi trường chat thời gian thực, thân thiện với người dùng.
+Học cách lập trình mạng với TCP, quản lý nhiều client song song.
+Thực hành lập trình giao diện GUI và xử lý dữ liệu trong Java.
+
+
+## 5. Kiến trúc hệ thống
+Client – Server:
+  - Server quản lý kết nối, danh sách user, gửi/nhận tin nhắn.
+  - Client gửi yêu cầu đăng nhập, nhận tin nhắn, hiển thị giao diện chat.
+  - Giao thức TCP: đảm bảo tin nhắn đến đúng người, đúng thứ tự.
+  - Đa luồng (Multi-threaded): mỗi client chạy riêng một thread trên server.
+---
+
+## 6.Công nghệ bổ trợ
+- Java Swing cho GUI.
+- Socket TCP cho truyền dữ liệu.
+- ObjectInputStream/ObjectOutputStream để truyền đối tượng Message.
+- ConcurrentHashMap để quản lý danh sách user và trạng thái online.
+
+## 7.Phương thức liên hệ
+- Họ và tên: Nguyễn Thu Hồng
+- Email: nguyenhongnunu@gmail.com
+- Số điện thoại: 0853972752
 
