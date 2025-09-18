@@ -20,18 +20,22 @@
 </div>
 
 ---
-## 1. Giới thiệu hệ thống
-Đây là hệ thống chat dùng theo thời gian thực, cho phép đăng ký, đăng nhập, gửi tin nhắn văn bản, hình ảnh, file 
-và nhãn dán giữa các user. Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông 
-tin trở nên thuận tiện.
-**Các chức năng chính:**
-Đăng ký và đăng nhập tài khoản người dùng
-       - Gửi/nhận tin nhắn văn bản giữa nhiều người dùng
-       - Gửi/nhận hình ảnh, file và nhãn dán (emoji/sticker)
-       - Hiển thị danh sách người dùng online/offline
-       - Thông báo khi người dùng đang gõ tin nhắn (typing indicator)
-       - Chat riêng lẻ hoặc chat nhóm (broadcast)
----
+<div style="text-align: left; padding: 10px;">
+    <h2>Giới thiệu hệ thống</h2>
+    <p style="font-size: 18px; line-height: 1.6;">
+        Đây là hệ thống chat theo thời gian thực, cho phép đăng ký, đăng nhập, gửi tin nhắn văn bản, hình ảnh, file và nhãn dán giữa các user. Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông tin trở nên thuận tiện.
+    </p>
+    <p style="font-size: 18px; font-weight: bold;">Các chức năng chính:</p>
+    <ul style="font-size: 16px; line-height: 1.6;">
+        <li>Đăng ký và đăng nhập tài khoản người dùng</li>
+        <li>Gửi/nhận tin nhắn văn bản giữa nhiều người dùng</li>
+        <li>Gửi/nhận hình ảnh, file và nhãn dán (emoji/sticker)</li>
+        <li>Hiển thị danh sách người dùng online/offline</li>
+        <li>Thông báo khi người dùng đang gõ tin nhắn (typing indicator)</li>
+        <li>Chat riêng lẻ hoặc chat nhóm (broadcast)</li>
+    </ul>
+</div>
+
 
 ### 2.Ngôn ngữ & Công nghệ chính
 <div align="left">
