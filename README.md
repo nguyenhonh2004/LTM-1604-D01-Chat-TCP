@@ -58,8 +58,6 @@
   - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream
   - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
 </div>
->>
----
 
 ## 3. Hình ảnh các chức năng
 <div align="center">
