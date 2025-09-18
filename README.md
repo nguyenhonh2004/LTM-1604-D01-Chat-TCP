@@ -34,7 +34,7 @@ tin trở nên thuận tiện.
 ---
 
 ### 2.Ngôn ngữ & Công nghệ chính
-<div align="center">
+<div align="left">
     
  Ngôn ngữ lập trình: Java
   - Giao thức mạng: TCP (Socket programming)
