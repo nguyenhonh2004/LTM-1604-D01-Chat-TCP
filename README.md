@@ -21,7 +21,9 @@
 
 ---
 ## 1. Giới thiệu hệ thống
-Đây là hệ thống chat dùng theo thời gian thực, cho phép đăng ký, đăng nhập, gửi tin nhắn văn bản, hình ảnh, file và nhãn dán giữa các user. Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông tin trở nên thuận tiện.
+Đây là hệ thống chat dùng theo thời gian thực, cho phép đăng ký, đăng nhập, gửi tin nhắn văn bản, hình ảnh, file 
+và nhãn dán giữa các user.Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông 
+tin trở nên thuận tiện.
 **Các chức năng chính:**
 Đăng ký và đăng nhập tài khoản người dùng
        - Gửi/nhận tin nhắn văn bản giữa nhiều người dùng
@@ -35,10 +37,10 @@
 <div align="center">
     
  Ngôn ngữ lập trình: Java
-        Giao thức mạng: TCP (Socket programming)
-        Giao diện người dùng: Swing (Java GUI)
-        Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream
-        Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
+        - Giao thức mạng: TCP (Socket programming)
+        - Giao diện người dùng: Swing (Java GUI)
+        - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream
+        - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
 </div>
 
 ---
@@ -62,10 +64,10 @@ Client – Server:
 ---
 
 ## 6.Công nghệ bổ trợ
-Java Swing cho GUI.
-Socket TCP cho truyền dữ liệu.
-ObjectInputStream/ObjectOutputStream để truyền đối tượng Message.
-ConcurrentHashMap để quản lý danh sách user và trạng thái online.
+- Java Swing cho GUI.
+- Socket TCP cho truyền dữ liệu.
+- ObjectInputStream/ObjectOutputStream để truyền đối tượng Message.
+- ConcurrentHashMap để quản lý danh sách user và trạng thái online.
 
 ## 7.Phương thức liên hệ
 Họ và tên: Nguyễn Thu Hồng
