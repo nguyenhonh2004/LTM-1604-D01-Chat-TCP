@@ -23,7 +23,7 @@
 <div style="text-align: left; padding: 10px;">
     <h2>Đề tài: Ứng dụng chat Client-Server sử dụng TCP</h2>
     
- <h3>Giới thiệu hệ thống</h3>
+ <h3>1.Giới thiệu hệ thống</h3>
     <p style="font-size: 18px; line-height: 1.6;">
         Đây là hệ thống chat theo thời gian thực, cho phép đăng ký, đăng nhập, gửi tin nhắn văn bản, hình ảnh, file và nhãn dán giữa các user. Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông tin trở nên thuận tiện.
     </p>
