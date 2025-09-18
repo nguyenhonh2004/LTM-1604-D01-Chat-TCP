@@ -70,7 +70,7 @@ Client – Server:
 - ConcurrentHashMap để quản lý danh sách user và trạng thái online.
 
 ## 7.Phương thức liên hệ
-Họ và tên: Nguyễn Thu Hồng
-Số điện thoại: 0853972752
+- Họ và tên: Nguyễn Thu Hồng
+- Số điện thoại: 0853972752
 
 
