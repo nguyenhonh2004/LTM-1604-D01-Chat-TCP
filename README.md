@@ -37,10 +37,10 @@ tin trở nên thuận tiện.
 <div align="center">
     
  Ngôn ngữ lập trình: Java
-       <liv>- Giao thức mạng: TCP (Socket programming)<liv>
-       <liv>- Giao diện người dùng: Swing (Java GUI)<liv>
-       <liv>- Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream<liv>
-       <liv>- Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent<liv>
+  - Giao thức mạng: TCP (Socket programming)
+  - Giao diện người dùng: Swing (Java GUI)
+  - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream
+  - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
 </div>
 
 ---
