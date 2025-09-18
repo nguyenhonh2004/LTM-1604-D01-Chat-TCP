@@ -22,7 +22,7 @@
 ---
 ## 1. Giới thiệu hệ thống
 Đây là hệ thống chat dùng theo thời gian thực, cho phép đăng ký, đăng nhập, gửi tin nhắn văn bản, hình ảnh, file 
-và nhãn dán giữa các user.Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông 
+và nhãn dán giữa các user. Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông 
 tin trở nên thuận tiện.
 **Các chức năng chính:**
 Đăng ký và đăng nhập tài khoản người dùng
