@@ -62,7 +62,20 @@
 ---
 
 ## 3. Hình ảnh các chức năng
-
+<div align="center">
+    <p align="center">
+        <img src="docs/1.jpg" alt="" width="800"/><br/>
+        <i>Hình 1: Chức năng đăng nhập<i><br/><br/>
+        <img src="docs/2.jpg" alt="" width="800"/><br/>
+         <i>Hình 2: Chức năng đăng ký<i><br/><br/>
+        <img src="docs/3.jpg" alt="" width="800"/><br/>
+        <i>Hình 3: Chức năng gửi sticker<i><br/><br/>
+         <img src="docs/4.jpg" alt="" width="800"/><br/>
+        <i>Hình 4: Chức năng gửi ảnh <i><br/><br/>
+         <img src="docs/5.jpg" alt="" width="800"/><br/>
+         <i>Hình 5: Chức năng gửi file<i><br/><br/>
+    </p>
+</div>
 
 
 ## 🚀 4.Mục tiêu đề 
