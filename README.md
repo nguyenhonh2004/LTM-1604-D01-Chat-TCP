@@ -39,11 +39,11 @@
     </ul>
 
   <p style="font-size: 16px; font-style: italic;">
-        Ngôn ngữ lập trình: Java <br>
-        Giao thức mạng: TCP (Socket programming) <br>
-        Giao diện người dùng: Swing (Java GUI) <br>
-        Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream <br>
-        Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
+  Ngôn ngữ lập trình: Java <br>
+   - Giao thức mạng: TCP (Socket programming) <br>
+   - Giao diện người dùng: Swing (Java GUI) <br>
+   - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream <br>
+   - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
     </p>
 </div>
 
