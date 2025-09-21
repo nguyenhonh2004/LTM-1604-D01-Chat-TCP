@@ -49,7 +49,7 @@
 
 
 
-### 2.Ngôn ngữ & Công nghệ chính
+## 2.Ngôn ngữ & Công nghệ chính
 <div align="left">
     
  Ngôn ngữ lập trình: Java
@@ -76,51 +76,50 @@
 </div>
 
 
-## 🚀 4.Mục tiêu đề 
-Tạo môi trường chat thời gian thực, thân thiện với người dùng.
-Học cách lập trình mạng với TCP, quản lý nhiều client song song.
-Thực hành lập trình giao diện GUI và xử lý dữ liệu trong Java.
+##  📝 4. Hướng dẫn cài đặt và sử dụng ứng dụng 
+**🔧Yêu cầu hệ thống**
+- **Java Development Kit (JDK)**: Phiên bản 8 trở lên
+- **Hệ điều hành**: Windows, macOS, hoặc Linux
+- **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, VS Code) hoặc terminal/command prompt
+- **Bộ nhớ RAM**: Tối thiểu 512 MB (khuyến nghị ≥ 2 GB)
+- **Dung lượng**: Khoảng 10MB cho mã nguồn và file thực thi
+- **Port**: 
 
-## 5. 📝 Các bước sử dụng ứng dụng chat TCP
+<br>**📦 Cài đặt và triển khai**</br>
+<br>Bước 1: Chuẩn bị môi trường</br>
+- **Java Development Kit (JDK)**: Phiên bản 8 trở lên
+- **Hệ điều hành**: Windows / macOS / Linux
+- **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, NetBeans, VS Code) hoặc Terminal/Command Prompt
+  
+<br>Bước 2: Khởi động chương trình</br>
+- **Bước 1**: Chạy Server trước (server sẽ lắng nghe các kết nối).
+- **Bước 2**: Chạy Client (có thể mở nhiều client để nhiều người dùng chat với nhau).
 
-<pre>
-5.1. Khởi động chương trình
-    - Bước 1: Chạy Server trước (server sẽ lắng nghe các kết nối).
-    - Bước 2: Chạy Client (có thể mở nhiều client để nhiều người dùng chat với nhau).
-
-5.2. Đăng ký tài khoản (lần đầu)
-    - Nhấn nút Register trên giao diện client.
-    - Nhập thông tin:
+<br>Bước 3: Đăng ký tài khoản (lần đầu)</br>
+- Nhấn nút Register trên giao diện client.
+- Nhập thông tin:
         + Username (tên tài khoản, duy nhất)
         + Password (mật khẩu)
-    - (Tùy chọn) Chọn avatar để hiển thị.
-    - Nhấn Xác nhận / Đăng ký → Nếu thành công sẽ hiện thông báo "Đăng ký thành công".
+- (Tùy chọn) Chọn avatar để hiển thị.
+- Nhấn Xác nhận / Đăng ký → Nếu thành công sẽ hiện thông báo "Đăng ký thành công".
 
-5.3. Đăng nhập
-    - Nhập Username và Password đã đăng ký.
-    - Nhấn Login → nếu đúng, hệ thống sẽ đưa bạn vào cửa sổ chat chính.
+<br>Bước 4: Đăng nhập </br>
+-  Nhập Username và Password đã đăng ký.
+-  Nhấn Login → nếu đúng, hệ thống sẽ đưa bạn vào cửa sổ chat chính.
 
-5.4.Giao diện chat chính
-    - Danh sách người dùng: hiển thị tất cả tài khoản (online / offline).
-    - Khu vực chat: nơi hiển thị tin nhắn gửi và nhận.
-    - Khung nhập: nơi nhập nội dung tin nhắn.
+<br>Bước 5: Giao diện chat chính </br>
+- Danh sách người dùng: hiển thị tất cả tài khoản (online / offline).
+- Khu vực chat: nơi hiển thị tin nhắn gửi và nhận.
+- Khung nhập: nơi nhập nội dung tin nhắn.
 
-5. Các nút chức năng
-    - Gửi tin nhắn văn bản.
-    - Gửi hình ảnh.
-    - Gửi file.
-    - Gửi emoji / sticker.
-</pre>
+<br>Bước 6: Các nút chức năng </br>
+- Gửi tin nhắn văn bản.
+- Gửi hình ảnh.
+- Gửi file.
+- Gửi emoji / sticker.
 ---
-
-## 6.Công nghệ bổ trợ
-- Java Swing cho GUI.
-- Socket TCP cho truyền dữ liệu.
-- ObjectInputStream/ObjectOutputStream để truyền đối tượng Message.
-- ConcurrentHashMap để quản lý danh sách user và trạng thái online.
-
-## 7.Phương thức liên hệ
+## 5.Phương thức liên hệ
 - Họ và tên: Nguyễn Thu Hồng
 - Email: nguyenhongnunu@gmail.com
-- Số điện thoại: 0853972752
-
+- © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+---
