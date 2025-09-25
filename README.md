@@ -23,7 +23,7 @@
 <div style="text-align: left; padding: 10px;">
     <h2>Đề tài: Ứng dụng chat Client-Server sử dụng TCP</h2>
     
- <h3>1.Giới thiệu hệ thống</h3>
+ <h3>1. Giới thiệu hệ thống</h3>
     <p style="font-size: 18px; line-height: 1.6;">
         Đây là hệ thống chat theo thời gian thực, cho phép đăng ký, đăng nhập, gửi tin nhắn văn bản, hình ảnh, file và nhãn dán giữa các user. Hệ thống cũng hiển thị trạng thái online/offline của người dùng, giúp việc trao đổi thông tin trở nên thuận tiện.
     </p>
@@ -38,25 +38,24 @@
         <li>Chat riêng lẻ hoặc chat nhóm (broadcast)</li>
     </ul>
 
-  <p style="font-size: 16px; font-style: italic;">
-  Ngôn ngữ lập trình: Java <br>
-   - Giao thức mạng: TCP (Socket programming) <br>
-   - Giao diện người dùng: Swing (Java GUI) <br>
-   - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream <br>
-   - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
-    </p>
+  <p style="font-size: 18px; font-style: italic;">Ngôn ngữ lập trình: Java Swing </p>
+     <ul style="font-size: 16px; line-height: 1.6;">
+        <li>Giao thức mạng: TCP (Socket programming)</li>
+        <li>Giao diện người dùng: Swing (Java GUI)</li>
+        <li>Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream </li>
+        <li>Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent</li>
+     </ul>
 </div>
 
 
 
-## 2.Ngôn ngữ & Công nghệ chính
+## 2. Ngôn ngữ & Công nghệ chính
 <div align="left">
-    
- Ngôn ngữ lập trình: Java
-  - Giao thức mạng: TCP (Socket programming)
-  - Giao diện người dùng: Swing (Java GUI)
-  - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream
-  - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent
+<p> Ngôn ngữ lập trình: Java </p>
+  - Giao thức mạng: TCP (Socket programming)<br/>
+  - Giao diện người dùng: Swing (Java GUI)<br/>
+  - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream<br/>
+  - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent<br/>
 </div>
 
 ## 3. Hình ảnh các chức năng
@@ -120,9 +119,9 @@
 - Gửi file.
 - Gửi emoji / sticker.
 ---
-## 5.Phương thức liên hệ
+## 5. Liên hệ
 - Họ và tên: Nguyễn Thu Hồng
-- Lớp: CNTT16-04
+- Lớp: CNTT 16-04
 - Email: nguyenhongnunu@gmail.com
 - © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 ---
