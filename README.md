@@ -37,25 +37,19 @@
         <li>Thông báo khi người dùng đang gõ tin nhắn (typing indicator)</li>
         <li>Chat riêng lẻ hoặc chat nhóm (broadcast)</li>
     </ul>
+</div>
 
-  <p style="font-size: 18px; font-style: italic;">Ngôn ngữ lập trình: Java Swing </p>
+
+
+## 2. Ngôn ngữ & Công nghệ chính
+<div>
+ <p style="font-size: 18px; font-style: italic;">Ngôn ngữ lập trình: Java Swing </p>
      <ul style="font-size: 16px; line-height: 1.6;">
         <li>Giao thức mạng: TCP (Socket programming)</li>
         <li>Giao diện người dùng: Swing (Java GUI)</li>
         <li>Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream </li>
         <li>Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent</li>
      </ul>
-</div>
-
-
-
-## 2. Ngôn ngữ & Công nghệ chính
-<div align="left">
-<p> Ngôn ngữ lập trình: Java </p>
-  - Giao thức mạng: TCP (Socket programming)<br/>
-  - Giao diện người dùng: Swing (Java GUI)<br/>
-  - Xử lý dữ liệu: ObjectInputStream/ObjectOutputStream<br/>
-  - Một số thư viện hỗ trợ: javax.swing, java.net, java.io, java.util.concurrent<br/>
 </div>
 
 ## 3. Hình ảnh các chức năng
@@ -72,7 +66,7 @@
          <img src="docs/5.jpg" alt="" width="800"/><br/>
          <i>Hình 5: Chức năng gửi file<i><br/><br/>
          <img src="docs/0.jpg" alt="" width="800"/><br/>
-         <i>Hình 5: Hình ảnh Server và Client đang chat <i><br/><br/>
+         <i>Hình 6: Hình ảnh Server và Client đang chat <i><br/><br/>
     </p>
 </div>
 
