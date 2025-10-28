@@ -65,7 +65,7 @@
         <i>Hình 4: Chức năng gửi ảnh <i><br/><br/>
          <img src="docs/5.jpg" alt="" width="800"/><br/>
          <i>Hình 5: Chức năng gửi file<i><br/><br/>
-         <img src="docs/0.jpg" alt="" width="800"/><br/>
+         <img src="docs/6.jpg" alt="" width="800"/><br/>
          <i>Hình 6: Hình ảnh Server và Client đang chat <i><br/><br/>
     </p>
 </div>
